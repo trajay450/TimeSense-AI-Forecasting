@@ -1,0 +1,9 @@
+{
+  "test_points": 144,
+  "model_mae": 0.23585804379158148,
+  "naive_mae": 0.2500592132839619,
+  "model_rmse": 0.2863023659751478,
+  "interval_coverage": 0.5208333333333334,
+  "anomaly_flags": 69,
+  "interval_radius": 0.2137228345061081
+}
